@@ -1,8 +1,8 @@
 # Parte I - Planejamento de Experimentos
 
-**Arquivos demonstração - Parte 1 - Técnicas da Planejamento de Experiementos**
+**Arquivos demonstração - Parte I - Técnicas da Planejamento de Experimentos**
 
-Nesta pasta os usuários tem acesso aos arquivos de demonstrações práticas utilizando a interface de “Técnicas de planejamento de experimentos” com estudos reais retirados da literatura:
+Nesta pasta os usuários tem acesso aos arquivos de demonstração prática utilizando a interface de “Técnicas de planejamento de experimentos” com estudos reais retirados da literatura:
 
 (1) aplicação de um planejamento fatorial completo para a seleção de variáveis no desenvolvimento de um método analítico;
 
